@@ -1,0 +1,7 @@
+print("goodby");
+print("goodbye all");
+print("goodbye problems");
+print("goodby");
+print("goodbye all");
+print("goodbye everybody!!!!");
+print("goodbye dear freind!!!!");
